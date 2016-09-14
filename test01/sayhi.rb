@@ -1,0 +1,4 @@
+def sayhi
+  "hi"
+end
+

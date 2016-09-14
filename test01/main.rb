@@ -1,0 +1,3 @@
+require "./sayhi"
+
+p sayhi
